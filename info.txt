@@ -1,1 +1,1 @@
-info (user A -> main)
+info (user B -> feature-update)
