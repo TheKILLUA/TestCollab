@@ -1,3 +1,5 @@
 # TestCollab
 Acesta este un proiect de test pentru a exersa colaborarea in Git.
 Aceasta linie este scrisa de colaboratoru B
+
+Suntem o echipa de WEB din CEITI
